@@ -1,10 +1,13 @@
 # Apache Kafka
+
 This Java project demonstrating Kafka Producer and Consumer for real-time data streaming. It sends serialized Student objects through Kafka, showcasing integration with Java.
 
-Event Driven Architecture Overview
+# Event Driven Architecture Overview
+
 Event Driven Architecture (EDA) is a software architecture paradigm centered around the production, detection, consumption, and reaction to events. An "event" in this context is a significant change in state, or an update that occurs in the system. EDA enables highly decoupled and scalable applications, where services can communicate asynchronously through events.
 
-Real-Life Example: E-commerce Order System
+# Real-Life Example: E-commerce Order System
+
 Let's consider an e-commerce platform as a real-life example to explain Event Driven Architecture.
 
 Event: The event in this system is "Order Placed", which occurs when a customer completes a checkout process.
